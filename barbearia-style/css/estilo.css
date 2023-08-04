@@ -1,0 +1,43 @@
+body{
+    background-color: aliceblue;
+}
+div{
+    width: 600px;
+    margin:0  auto;
+    text-align: center;
+}
+img{
+    width: 150px;
+}
+h1{
+    border: 5px solid black;
+    font-size: 24px;
+    font-family: 'Verdana';
+    padding: 10px;
+}
+h3{
+    border-top: 3px solid gray;
+    border-bottom: 3px solid gray;
+    margin-top: 30px;
+    padding: 10px 0;
+}
+p{
+    text-align: justify;
+    font-family: 'Verdana';
+    line-height: 32px;
+    margin-bottom: 35px;
+}
+span{
+    font-weight: bold;
+}
+a{
+    font-size: 16px;
+    font-family: 'Verdana';
+    color: black;
+    padding: 10px 15px;
+    margin-top: 15px;
+    text-decoration: none;
+    background-color: aqua;
+    border: 10px solid aqua;
+    border-radius: 25px;
+}
